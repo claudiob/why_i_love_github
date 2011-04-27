@@ -1,5 +1,3 @@
 # Why I Love GitHub
 
-* Pretty
-* Easy
-* Edit
+* Wow! Check this network: https://github.com/schacon/why_i_love_github/network
